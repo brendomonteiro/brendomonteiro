@@ -1,7 +1,7 @@
 # Welcome!
 
 
-Technology student, seeking knowledge in programming languages with a focus on Ruby on Rails in this moment. 
+Technology student, seeking knowledge in programming languages with a focus on Ruby on Rails. 
 
 ## About me
 
