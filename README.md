@@ -1,7 +1,7 @@
 # Welcome!
 
 
-Technology student, seeking knowledge in programming languages with a focus on Ruby on Rails. 
+Technology student, seeking knowledge in programming languages with a focus on KOTLIN. 
 
 ## About me
 
